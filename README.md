@@ -1,33 +1,32 @@
 # font-OG-installer
-- instalador de fuentes de google para linux
+- google font installer for linux
 
-- Disfruta de este script que te hara la tarea de instalar tipografias de google más facil en tu equipo linux usando <strong><a href= "https://www.python.org/downloads/release/python-390/">Python3</a></strong>.
+- Enjoy this script that will make the task of installing google fonts easier on your linux computer using <strong> <a href= "https://www.python.org/downloads/release/python-390/"> Python3 </a> </strong>.
 
 
 
-## Requisitos
+## Requirements
 #
 ### unzip
 
-####     Debian:
-    sudo apt-get update && sudo apt-get upgrade
-    sudo apt-get install unzip
+#### Debian:
+     sudo apt-get update && sudo apt-get upgrade
+     sudo apt-get install unzip
 
-####     Arch:
-    sudo pacman -Syu
-    sudo pacman -S unzip
+#### Arch:
+     sudo pacman -Syu
+     sudo pacman -S unzip
 
 ### wget (python)
-    pip3 install wget
+     pip3 install wget
 
-## Obligatorio
+## Required
 #
-- Conserva la carpeta <strong>Download</strong> ya que se guardan las fuentes de forma temporal en ese directorio.
+- Keep the <strong> Download </strong> folder since the sources are temporarily saved in that directory.
 
-- Las fuentes personalizadas deben de ir divididas con "-" si es que su nombre lleva más de una palabra.
+- Custom fonts must be divided with "-" if your name has more than one word.
 
 
-##### No te olvides de visitar mi pagina web para más scripts que pueden interesarte
+##### Don't forget to visit my website for more scripts that may interest you
 
-<a href= "https://luciohdz.github.io">visitar la pagina</a>
-
+<a href= "https://luciohdz.github.io"> visit the page </a>
