@@ -29,5 +29,5 @@
 
 ##### No te olvides de visitar mi pagina web para más scripts que pueden interesarte
 
-<a href= "https://luciohdz.github.com">visitar la pagina</a>
+<a href= "https://luciohdz.github.io">visitar la pagina</a>
 
