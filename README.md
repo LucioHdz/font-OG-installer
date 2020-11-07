@@ -24,7 +24,7 @@
 #
 - Keep the <strong> Download </strong> folder since the sources are temporarily saved in that directory.
 
-- Custom fonts must be divided with "-" if your name has more than one word.
+- Custom fonts must be divided with "+" if your name has more than one word.
 
 
 ##### Don't forget to visit my website for more scripts that may interest you
